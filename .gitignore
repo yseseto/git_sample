@@ -1,1 +1,4 @@
 setting.js
+node_modules/
+vendor/
+*.log
